@@ -49,6 +49,9 @@ Plug 'ntpeters/vim-better-whitespace'
 " colors
 Plug 'tomasr/molokai'
 
+" json
+Plug 'elzr/vim-json'
+
 " javascript
 Plug 'honza/vim-snippets'
 Plug 'othree/yajs.vim'
