@@ -47,7 +47,7 @@ Plug 'Valloric/YouCompleteMe', { 'do': function('BuildYCM') }
 Plug 'ntpeters/vim-better-whitespace'
 
 " colors
-Plug 'tomasr/molokai'
+Plug 'beckend/vim-colors-smyck'
 
 " json
 Plug 'elzr/vim-json'

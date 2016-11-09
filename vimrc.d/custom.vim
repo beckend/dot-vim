@@ -1,5 +1,6 @@
 " customization
-colorscheme molokai
+syntax enable
+colorscheme smyck
 
 set anti enc=utf-8
 set guifont=Source\ Code\ Pro\ 16
