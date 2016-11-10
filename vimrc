@@ -39,6 +39,7 @@ Plug 'scrooloose/nerdtree'
 Plug 'Xuyuanp/nerdtree-git-plugin'
 " git
 Plug 'tpope/vim-fugitive'
+Plug 'airblade/vim-gitgutter'
 " syntax checking hacks for vim
 Plug 'scrooloose/syntastic'
 Plug 'mtscout6/syntastic-local-eslint.vim'

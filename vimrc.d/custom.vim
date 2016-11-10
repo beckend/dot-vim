@@ -10,4 +10,3 @@ if has("gui_macvim")
   set guifont=Source\ Code\ Pro:h16
 endif
 
-"set laststatus=2 " Always display the statusline in all windows
