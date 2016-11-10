@@ -1,7 +1,13 @@
 " customization
+set encoding=utf-8
 syntax enable
 colorscheme smyck
 
-set anti enc=utf-8
-set guifont=Source\ Code\ Pro\ 16
+" GUI
+if has("gui_macvim")
+  set antialias
+  set transparency=15
+  set guifont=Source\ Code\ Pro:h16
+endif
+
 "set laststatus=2 " Always display the statusline in all windows
