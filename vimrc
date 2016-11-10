@@ -24,6 +24,8 @@ Plug 'tpope/vim-sensible'
 " Plug 'powerline/powerline', {'rtp': 'powerline/bindings/vim/'}
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
+" buffer handling
+Plug 'jeetsukumaran/vim-buffergator'
 " ack/ag
 Plug 'mileszs/ack.vim'
 " indent guides
